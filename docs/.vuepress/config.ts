@@ -32,26 +32,26 @@ export default defineUserConfig<DefaultThemeOptions>({
    //     },
    //   },
    // ],
-       [
-      '@vuepress/docsearch',
-      {
-        appId: '7H9N1GQIPC',
-		apiKey: 'f43ad48b7cc1e71c487691c49d97e1b7',
-        indexName: 'sscc2',
-        locales: {
-          '/': {
-            placeholder: '搜索文档',
-          },
-          '/en/': {
-            placeholder: 'Search Documentation',
-          },
-        },
-      },
-    ],
-    ],
+  //     [
+  //    '@vuepress/docsearch',
+  //    {
+  //      appId: '7H9N1GQIPC',
+	//	apiKey: 'f43ad48b7cc1e71c487691c49d97e1b7',
+  //      indexName: 'sscc2',
+  //      locales: {
+  //        '/': {
+  //          placeholder: '搜索文档',
+  //        },
+  //        '/en/': {
+  //          placeholder: 'Search Documentation',
+  //        },
+  //      },
+  //    },
+  //  ],
+  //  ],
 
  themeConfig: {
-  logo: 'https://ssccm.netlify.app/img/SSCC.png',
+  logo: '/img/SSCC.png',
 	repo: 'https://github.com/seasideccm/ssccm',
 	repoLabel: 'ssccm',
 	docsDir: 'docs',
