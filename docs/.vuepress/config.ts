@@ -32,23 +32,23 @@ export default defineUserConfig<DefaultThemeOptions>({
    //     },
    //   },
    // ],
-  //     [
-  //    '@vuepress/docsearch',
-  //    {
-  //      appId: '7H9N1GQIPC',
-	//	apiKey: 'f43ad48b7cc1e71c487691c49d97e1b7',
-  //      indexName: 'sscc2',
-  //      locales: {
-  //        '/': {
-  //          placeholder: '搜索文档',
-  //        },
-  //        '/en/': {
-  //          placeholder: 'Search Documentation',
-  //        },
-  //      },
-  //    },
-  //  ],
-  //  ],
+       [
+      '@vuepress/docsearch',
+      {
+        appId: 'ORWYCND0OB',
+		    apiKey: '36374344cdd015bbe61a7d18cb598a24',
+        indexName: 'netlify_3077aa08-89d1-47ba-ac04-f9347753d7ef_main_all',
+        locales: {
+          '/': {
+            placeholder: '搜索文档',
+          },
+          '/en/': {
+            placeholder: 'Search Documentation',
+          },
+        },
+      },
+    ],
+    ],
 
  themeConfig: {
   logo: '/img/SSCC.png',
