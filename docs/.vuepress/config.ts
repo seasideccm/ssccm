@@ -48,7 +48,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   //      },
   //    },
   //  ],
-  //  ],
+    ],
 
  themeConfig: {
   logo: '/img/SSCC.png',
