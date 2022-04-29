@@ -32,6 +32,7 @@ export default defineUserConfig<DefaultThemeOptions>({
    //     },
    //   },
    // ],
+
        [
       '@vuepress/docsearch',
       {
@@ -48,6 +49,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         },
       },
     ],
+
     ],
 
  themeConfig: {
