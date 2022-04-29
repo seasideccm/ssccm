@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 import { navbar, sidebar } from './configs'
 // import { sidebar } from './configs'
 export default defineUserConfig<DefaultThemeOptions>({
-  base: "/sscc2/",
+  base: "/",
   locales: {
     '/': {
       lang: 'zh-CN',
@@ -16,7 +16,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       description: 'The platform of department of CCM BeiDaiHe hospital.',
     },
   },  
-  head: [['link', { rel: 'icon', href: '/sscc2/images/favicon.ico'}]],
+  head: [['link', { rel: 'icon', href: '/images/favicon.ico'}]],
   
     plugins: [
     
@@ -51,11 +51,11 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
 
  themeConfig: {
-    logo: 'https://seasideccm.github.io/img/SSCC.png',
-	repo: 'https://github.com/seasideccm/sscc2',
-	repoLabel: 'sscc',
+  logo: 'https://ssccm.netlify.app/img/SSCC.png',
+	repo: 'https://github.com/seasideccm/ssccm',
+	repoLabel: 'ssccm',
 	docsDir: 'docs',
-	docsBranch: 'main',
+	docsBranch: 'docs',
 	// sidebar: 'auto',
 	lastUpdated: 'true',
 	
