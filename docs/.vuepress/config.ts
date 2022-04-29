@@ -33,11 +33,11 @@ export default defineUserConfig<DefaultThemeOptions>({
    //   },
    // ],
 
-       [
+      
       '@vuepress/docsearch',
       {
         appId: 'ORWYCND0OB',
-		    apiKey: '1bc38658a874b69b61a2ba75867e88ce',
+        apiKey: '1bc38658a874b69b61a2ba75867e88ce',
         indexName: 'netlify_3077aa08-89d1-47ba-ac04-f9347753d7ef_main_all',
         locales: {
           '/': {
@@ -48,8 +48,6 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
         },
       },
-    ],
-
     ],
 
  themeConfig: {
