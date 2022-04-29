@@ -1,0 +1,133 @@
+# Regional perfusion monitoring in shock
+
+## KEY POINTS
+
+ Physical examination techniques have a reasonable negative predictive value to exclude single organ hypoperfusion but are nonspecific to detect it.
+ Technical methods to assess myocardial perfusion include ECG and echocardiography, as well as contrast-enhanced ultrasound.
+ Near-infrared spectroscopy and transcranial Doppler sonography can be used to assess cerebral perfusion and determine autoregulation thresholds of the brain.
+ Both Doppler and contrast-enhanced ultrasound techniques are novel methods to evaluate renal and visceral organ perfusion.
+ A key limitation of most techniques is the inability to determine adequacy of organ blood flow to meet the organs’ metabolic demands.
+
+## Abstract
+
+PURPOSE OF REVIEW: Despite restoration of adequate systemic blood flow in patients with shock, single organs may remain hypoperfused. In this review, we summarize the results of a literature research on methods to monitor single organ perfusion in shock. We focused on methods to measure heart, brain, kidney, and/or visceral organ perfusion. Furthermore, only methods that can be used in real-time and at the bedside were included.
+
+RECENT FINDINGS: We identified studies on physical examination techniques, electrocardiography, echocardiography, contrast-enhanced ultrasound, near-infrared spectroscopy, and Doppler sonography to assess single organ perfusion.
+
+SUMMARY: Physical examination techniques have a reasonable negative predictive value to exclude single organ hypoperfusion but are nonspecific to detect it. Technical methods to indirectly measure myocardial perfusion include ECG and echocardiography. Contrast-enhanced ultrasound can quantify myocardial perfusion but has so far only been used to detect regional myocardial hypoperfusion. Near-infrared spectroscopy and transcranial Doppler sonography can be used to assess cerebral perfusion and determine autoregulation thresholds of the brain. Both Doppler and contrast-enhanced ultrasound techniques are novel methods to evaluate renal and visceral organ perfusion. A key limitation of most techniques is the inability to determine adequacy of organ blood flow to meet the organs' metabolic demands.
+
+Keywords
+capillary refill time, regional perfusion, shock, ultrasound
+
+## INTRODUCTION 
+
+Shock is a common disorder encountered in critically ill patients and associated with a high mortality. Pathophysiologically, shock is defined as a mismatch of systemic oxygen delivery and consumption resulting in cellular hypoxia and organ dysfunction [1]. In clinical practice, shock is primarily diagnosed using physical signs, such as decreased peripheral perfusion (e.g. cold and clammy hands, prolonged capillary refill time, narrow radial pulse), skin mottling, cold sweatedness, altered mental status, and oliguria. Laboratory values (e.g. arterial lactate levels, central/mixed venous oxygen saturation, central venous to arterial carbon dioxide tension gap, bicarbonate levels, base deficit) may further assist the clinician to confirm the diagnosis of shock [2]. 
+
+Treatment of the underlying cause of shock and hemodynamic stabilization to reverse tissue hypoperfusion summarize the key principles of shock management. Hemodynamic stabilization can be divided into three steps (Fig. 1) [3]. Step 1 incorporates the emergent reversal of coronary and cerebral hypoperfusion to prevent cardiovascular collapse. This usually implies (bolus) administration of vasopressor drugs, and only refers to patients with severe hemodynamic instability [4]. Step 2 describes what is widely considered the core therapy of shock, namely reversal of systemic tissue hypoperfusion and re-establishment of adequate microcirculatory perfusion. Fluids, inotropes, vasopressor and rarely vasodilator drugs are titrated to reverse physical signs of tissue ischemia and laboratory markers of systemic hypoperfusion. 
+
+![image-20210424211416489](https://cdn.jsdelivr.net/gh/seasideccm/img/image-20210424211416489.png)
+
+FIGURE 1. Schematic pyramid of shock therapy prioritizing the principles of hemodynamic stabilization in three steps. Adapted from Dünser et al. [3].
+
+Step 3 in the pyramid of shock therapy represents the final stage of hemodynamic stabilization. It applies to those patients in whom regional perfusion of single organs remains inadequate despite reversal of systemic hypoperfusion [3]. The kidney, brain, and heart are common organs, which require specific adjustments of systemic perfusion to restore adequate single organ perfusion. Reasons are organspecific and include limited autoregulation capacities (e.g. kidneys), stenoses of feeding arteries (e.g. heart), or disease-induced perfusion abnormalities (e.g. brain injury). The major challenge is, however, the assessment of single organ perfusion. 
+
+This review summarizes the current literature on methods and techniques to monitor regional tissue perfusion in patients with shock. We focused to include only methods that can be used in real-time and at the bedside. 
+
+SEARCH STRATEGY 
+
+The literature search was performed using the PubMed database (https://www.ncbi.nlm.nih.gov/ pubmed/). Our search was restricted to adults but not to specific years of publication, although emphasis was laid on manuscripts published during the last 5 years. The following subject terms were used for our search: ‘regional perfusion’ OR ‘organ perfusion’ OR ‘renal perfusion’ OR ‘brain perfusion’ OR ‘cerebral perfusion’ OR ‘myocardial perfusion’ OR ‘coronary perfusion’ OR ‘renal perfusion’ OR ‘kidney perfusion’ OR ‘liver perfusion’ OR ‘hepatic perfusion’ OR ‘intestinal perfusion’ OR ‘splanchnic perfusion’ OR ‘visceral perfusion’ AND ‘shock’ OR ‘critical illness’ OR ‘critically ill’. Furthermore, subject terms were also combined with terms referring to specificmonitoring techniques, such as ‘ultrasound’ OR ‘sonography’ OR ‘Doppler’ OR ‘contrast-enhanced’ OR ‘near-infrared spectroscopy’ OR ‘indocyanine green clearance’ OR ‘gastric tonometry’. Reference lists of identified manuscripts were hand searched to identify further relevant publications. 
+
+## LIMITATIONS OF ASSESSING SINGLE ORGAN PERFUSION 
+
+With few exceptions, one key limitation of techniques measuring single organ perfusion is that they do not assess whether the quantified blood flow is sufficient to meet the metabolic demands of the organ. Currently, only few invasive techniques (e.g. venous catheterization of single organs, placement of tissue probes into or near-infrared spectroscopy (NIRS) on single organs during open surgical procedures) are available to measure organ-specific metabolites or tissue oxygenation to determine the adequacy of organ perfusion. Although laboratory parameters can be used to diagnose ischemiainduced changes of organ function, they are not useful to guide resuscitation as most of them only respond with a significant time delay and indicate organ damage that has already occurred. When interpreting the findings of this review, these limitations need to be kept in mind. 
+
+## HEART 
+
+### Physical examination 
+
+In contrast to type I myocardial ischemia (e.g. coronary occlusion with regional myocardial ischemia), shock-related myocardial hypoperfusion leads to global hypoperfusion of the heart with a mismatch of myocardial oxygen demand and supply (e.g. type II myocardial ischemia) [5&&]. This type of myocardial ischemia is uncommonly associated with anginal chest pain or discomfort [6& ]. Physical signs can only be determined in the awake patient and may be unspecific including dyspnea, anxiety, diaphoresis or unexplained tachycardia and hypotension [7]. 
+
+### ECG 
+
+The ECG is one of the cornerstones to diagnose acute myocardial infarction [8]. ST-segment changes develop within seconds (20 to 24 s) following the onset of myocardial ischemia [9]. Prolonged (>60 min) ST-segment changes were highly specific (specificity, 95.2%) to predict troponin elevations in a general ICU population [10]. The main limitations of ECG monitoring to detect myocardial ischemia are its fairly low sensitivity to predict troponin increases (31.6%) [10] and a moderate inter-rater reliability to identify ECG changes suggestive of myocardial ischemia [11]. 
+
+### Echocardiography 
+
+Echocardiography has gained a crucial role in detecting ischemia-induced regional wall motion abnormalities. Regional wall motion abnormalities because of coronary occlusion in patients undergoing percutaneous coronary interventions develop within 10 s and can be identified by transthoracic echocardiography before ST-changes occur in ECG [9]. In contrast, the diagnostic accuracy of echocardiography to determine myocardial perfusion in type II myocardial ischemia is poorly understood with only limited data published in patients with shock. In the absence of significant coronary stenoses, myocardial hypoperfusion in shock induces systolic or diastolic ventricular dysfunction rather than regional wall motion abnormalities [12& ]. Although echocardiography is a sensitive method to identify both systolic and diastolic heart failure in the critically ill [13,14], these findings are nonspecific for myocardial hypoperfusion [15& ,16& ]. 
+
+### Contrast-enhanced sonography 
+
+Contrast-enhanced sonography/ultrasound (CEUS) has been used to assess regional myocardial perfusion and detect coronary artery disease [17]. In 40 ICU patients with elevated troponin levels, CEUS of the myocardium was feasible and could detect regional hypoperfusion and coronary artery disease with a sensitivity of 67% and specificity of 88% [18& ]. So far, no data have been published for the use of CEUS to diagnose global myocardial hypoperfusion and type II myocardial ischemia. Limitations of the use of CEUS in the ICU are challenging examination techniques and the need for an experienced operator [17] (Table 1). 
+
+## BRAIN 
+
+### Physical examination 
+
+Physical signs of impaired cerebral perfusion can only be detected in the nonsedated patient. Although an uncompromised mental state is a reliable indicator of adequate cerebral perfusion, a quantitatively or qualitatively altered level of consciousness is nonspecific for cerebral hypoperfusion. However, whenever occurring in a patient with hemodynamic instability, anxiety, agitation, or lethargy should be considered as an indicator of cerebral hypoperfusion until proven otherwise [19]. In rare cases, convulsions or focal deficits (e.g. in patients with stenoses of major cerebral arteries) may be induced by cerebral hypoperfusion [19]. 
+
+### Near-infrared spectroscopy 
+
+NIRS provides real-time transcutaneous measurement of regional tissue oxygenation using optical analysis of reflected near-infrared light [20]. When NIRS optodes are placed over the forehead, emitted photons penetrate the scalp, frontal bone, and frontal lobe of the brain (Fig. 2). Contamination of intracranial tissue oxygen saturation by extracranial tissues is a key limitation of current NIRS techniques [21& ]. In addition, as only the superficial cortex is sampled, tissue oxygenation in cerebral structures particularly susceptible to hypoperfusion, such as the grey–white matter interface, basal ganglia, or hippocampi cannot be determined [22]. The tissue oxygen saturation measured by NIRS when applied over the forehead constitutes of 20% arterial, 5% capillary, and 75% venous blood explaining why healthy volunteers breathing room air exhibit values around 70% [23]. In elderly patients before major surgery, average NIRS values of 60% were measured [24]. Absolute values less than 50% or a decrease of the baseline value by greater than 25% are considered potential indicators of brain tissue hypoxia [25]. Although cerebral perfusion is a crucial determinant of tissue oxygen saturation, other factors, such as arterial oxygen saturation, arterial carbon dioxide tension, hemoglobin levels, and regional disorders (e.g. brain injury) influence tissue oxygen saturation [26&&]. Time domain NIRS is a novel technique, which overcomes limitations of current NIRS technologies, such as the lack of brainspecificity and the large variability in quantifying oxygenation [21& ]. 
+
+In healthy volunteers experiencing simulated hypovolemia by application of lower body negative pressure, changes of cardiac output were correlated both with changes in carotid blood flow and brain tissue oxygen saturation [27&&]. NIRS has been used to indirectly track changes in cerebral blood flow occurring during cardiac, aortic, and carotid artery surgery [28]. Processing of simultaneous changes in the low-frequency signals of NIRS and arterial blood pressure was shown to accurately detect the lower limit of cerebral autoregulation with a sensitivity of 92% and an area under the receiver operator characteristics curve of 0.89 [29]. Using this method, arterial blood pressure excursions below or above brain autoregulation thresholds during cardiac surgery were independently associated with postoperative delirium, acute kidney injury, and mortality [30,31]. 
+
+### Transcranial Doppler sonography 
+
+Using the temporal bone, eye or the foramen magnum as windows, pulsed wave TCD can be used to determine blood flow velocities in the arteries of the circle of Willis [32]. As flow velocities in cerebral arteries depend on both blood flow and vascular diameter, mean blood flow velocities are correlated with but not equal to cerebral blood flow. Therefore, no absolute values of blood flow velocities can accurately indicate the onset of cerebral hypoperfusion. Relative reductions by 60–80% have been proposed as threshold values for cerebral hypoperfusion [33,34]. In 20 healthy volunteers, changes in middle cerebral artery flow assessed by TCD were correlated with changes in perfusion assessed by gadoliniumenhanced MRI [35]. In 30 healthy volunteers, blood flow velocity and cerebrovascular conductance measured in the middle cerebral artery with colourcoded TCD correlated with hippocampus and occipitoparietal blood flow as measured by arterial spinlabelled perfusion MRI [36]. 
+
+A systematic review evaluated the use of TCD to assess cerebral perfusion and autoregulation in patients with sepsis or septic shock [37,38]. In 36 heart failure patients, TCD was used to assess cerebral perfusion during intra-aortic balloon pump (IABP) therapy. The velocity time integral measured in the middle cerebral artery increased during IABP augmentation suggesting that cerebral perfusion is increased by IAPB use [39]. In 37 patients on venoarterial ECMO therapy, TCD measurements revealed that mean flow velocities were higher and pulsatility indices lower in patients cannulated over the axillary artery compared with femoral arterial cannulation [40& ]. Comparable with NIRS, TCD has been used in combination with arterial blood pressure to determine cerebral autoregulation thresholds in critically ill patients and during cardiac or vascular surgery [41&&].
+
+## KIDNEYS 
+
+### Physical signs 
+
+Urine output has long been considered the key physical sign to assess renal perfusion in patients with shock. It has been recognized as a valid predictor of kidney failure and included in the definitions of acute kidney injury [42,43]. However, the view on urine output as an indirect marker of renal perfusion has recently become more granular. Although adequate urine output (>0.3 to 0.5 ml/kg/h [44,45]) can generally be considered an indicator of adequate renal blood flow, other causes of oliguria than kidney hypoperfusion have been identified [46]. First, in patients with shock, the neurohumoral stress response leads to reduced glomerular filtration, increased sodium, and water retention resulting in oliguria despite adequate renal blood flow. Second, alterations of intra-renal blood flow, such as changes in preglomerular and postglomerular resistances as well as increased intrarenal shunting can decrease glomerular filtration rate despite preserved or increased renal perfusion, particularly in sepsis patients. Third, glomerular and more commonly tubular damage (e.g. because of ischemia, inflammation, mitochondrial dysfunction, or cell cycle arrest) induce oliguria in critically ill patients. Finally, it has been recognized that not only decreased arterial blood flow results in renal hypoperfusion but also venous congestion because of elevated central venous pressures (e.g. in hypervolemia or heart failure). Taking these points into consideration, oliguria may only be an indicator of renal hypoperfusion during the early phases of shock [46]. Accordingly, a multicentric feasibility trial found that a restrictive fluid strategy targeting, among other endpoints, urine output only during the first 2 h after randomization resulted in improved kidney function compared with standard care in septic shock patients. [47]. A prospective, observational study including 30 patients in early septic shock reported that capillary refill time and skin mottling were correlated with the renal pulsatility index, a Doppler sonographic marker of renal vascular tone. Changes in the extent of skin mottling during the first 72 h after study inclusion were associated with changes in the renal pulsatility index [48]. 
+
+### Doppler ultrasound 
+
+Comparable to TCD, (colour-aided) Doppler ultrasound has been used to noninvasively determine renal blood flow velocities at the bedside. Using quotients of systolic, diastolic, and mean blood flow velocities, the renal resistive and renal pulsatility index can be calculated. Both parameters accurately reflect renal vascular tone and allow estimation of renal perfusion [49]. Side-to-side differences, interrater variability, and feasibility of these measurements in the ICU were favourable [50–52]. Measurements in healthy volunteers suggested reference values for the renal resistive index of 0.6–0.7. An increase greater than 0.7 reflects renal vasoconstriction and was associated with reduced renal perfusion [49]. In patients with septic shock, the renal resistive index was higher in patients developing acute renal failure than in those who did not [50]. Similar observations were made in severe sepsis, multiple trauma, and unselected critically ill patients [53,54]. In both of the latter studies, a renal resistive index of 0.71 was identified as the cut-off value with the highest value to predict subsequent development of acute kidney injury. Similarly, a renal resistive index greater than 0.7 predicted progression of hemodynamically stable multiple trauma patients to hemorrhagic shock by detecting occult hemorrhage-related hypoperfusion [55]. 
+
+Furthermore, Doppler ultrasound has been used to track renal hemodynamic effects of fluid loading in patients with circulatory failure [56]. Given its close relationship to renal blood flow and arterial blood pressure, the renal resistive index has been used to determine the mean arterial pressure target at which renal perfusion was optimized. In septic shock patients, a norepinephrine-induced increase in mean arterial blood pressure from 65–75 mmHg resulted in a decrease in the renal resistive index and an increase in urine output [57]. 
+
+Doppler measurements of intrarenal venous blood flow reflect venous drainage of the kidneys. Accordingly, a discontinuous venous outflow of the kidney was found to be an indicator of renal congestion in heart failure patients. In these patients, intrarenal venous flow patterns were associated with right atrial pressures (e.g. continuous flow pattern: 5.4  2.5 mmHg; biphasic pattern: 9.5  3.5 mmHg; monophasic pattern: 14.9  4.3 mmHg; P < 0.001) [58]. In 145 ICU patients after cardiac surgery, a portal vein pulsatility index greater than 50% was independently associated with a greater degree of systemic venous congestion and a higher incidence of postoperative acute kidney injury [59]. These data suggest that the technically less demanding Doppler measurement of portal venous flow could be used as a surrogate marker of impaired renal vein drainage. 
+
+### Contrast-enhanced ultrasound 
+
+Assessment of renal blood flow by CEUS was closely correlated with measurements of renal plasma flow as determined by the para-aminohippuric acid technique [60,61] (Table 1). Feasibility and excellent inter-observer reliability (r 2 ¼ 0.92) were reported for the use of CEUS in the ICU [62,63]. In a controlled, prospective study, CEUS was used to compare cortical renal perfusion between septic shock patients and ICU patients without septic shock. The perfusion index of the renal cortex was lower and the mean transit time higher in septic shock patients. Furthermore, the mean transit time measured in the renal cortex was higher in septic shock patients with severe acute kidney injury compared with those without [64]. Similarly, a decrease in the renal perfusion index by 50% was identified using CEUS measurements in 11 cardiac surgical patients on the first postoperative day compared with baseline values suggesting that renal perfusion is significantly reduced during the first 24 postoperative hours [62]. 
+
+CEUS has been used to evaluate the effects of catecholamine agents on renal perfusion. A dopamine infusion at 2mg/kg/min increased renal cortical blood flow measured by CEUS in healthy volunteers [61]. In a prospective cohort study, CEUS was used to evaluate changes in renal perfusion before and after a norepinephrine-induced increase in mean arterial pressure from 60–65 to 80– 85 mmHg. Although the mean perfusion index did not change before and after the increase in blood pressure, a wide variability in the response of the perfusion index to increased norepinephrine doses was observed (-51 to +97% compared with baseline) [63]. 
+
+## VISCERAL ORGANS 
+
+### Physical signs 
+
+There are no physical signs allowing examination of hepatic or splenic perfusion in patients with shock. Although the absence of gut sounds is an unspecific sign of hepatosplanchnic hypoperfusion, presence of physiologic gut sounds is an indicator of adequate gastrointestinal perfusion [65]. Capillary refill time in early septic shock directly correlated with the Doppler ultrasound-derived pulsatility index of the liver and intestines indicating that a prolonged capillary refill time in early septic shock might be a marker of hepatic and intestinal vasoconstriction [48]. 
+
+### Doppler ultrasound 
+
+Although Doppler ultrasound of the liver is a well recognized method to assess liver perfusion [66], we failed to identify studies on its use to evaluate liver perfusion in shock. A case series on the use of portal vein Doppler ultrasound in six patients with shock suggested that absent or significantly reduced hepatic venous blood flow in the presence of normal or increased pulmonary venous flow can indicate severely impaired venous return [67]. 
+
+The splenic resistive index assessed by Doppler ultrasound measurements was an independent predictor of hemorrhagic shock development within the first 24 h from admission in hemodynamically stable multiple trauma patients [68]. Changes in the splenic resistive index in response to volume loading mirrored cardiac responsiveness and systemic hemodynamics in mechanically ventilated patients following cardiac surgery. A greater than 9% reduction of the splenic resistive index was a marker of fluid-induced increase in stroke volume with 100% specificity and 100% positive predictive value. A greater than 4% reduction in the splenic resistive index was always associated with an improvement in splanchnic perfusion as indicated by an increase in lactate clearance and a reduction in systemic vascular resistance regardless of changes in stroke volume [69]. 
+
+### Contrast-enhanced ultrasound 
+
+CEUS has been introduced as a promising method to assess intestinal perfusion in critically ill patients. So far, most studies have been published on its use to detect intestinal ischemia in patients with suspected bowel ischemia. In these patients, the sensitivity and specificity of a diminished or absent CEUS signal was 85 and 100%, respectively [70–72]. Furthermore, CEUS could detect shock-related splenic hypoperfusion [73] and hepatic artery or portal vein flow alterations in liver transplant recipients [74,75] (Table 1).
+
+| Table 1. Factbox contrast-enhanced ultrasound                |
+| ------------------------------------------------------------ |
+| Enables real-time visualization of organ blood flow          |
+| Superior to colour Doppler ultrasound as it detects slower flow in smaller vessels |
+| Uses specific sonographic contrast agents (e.g. gas filled microbubbles), which oscillate under the influence of ultrasound waves |
+| Assessment of organ/tissue perfusion can be done subjectively or objectively using time–intensity curves in specific regions of interest |
+| Commonly used quantitative measures of tissue perfusion are time to peak, peak intensity, area under the curve, and mean transit time. |
+| Specific imaging techniques and software are required to perform CEUS [e.g. low mechanical index (<0.2) imaging] |
+| Shares the same limitations as other ultrasound techniques   |
+| Examination techniques challenging, thus requiring experienced operators |
+
+### Indocyanine green clearance and gastric tonometry 
+
+Both Indocyanine green (ICG) clearance and gastric tonometry have been used to evaluate hepatic and gastric perfusion in critically ill patients [77–80]. However, both methods suffer from significant limitations and are not routinely used in clinical practice. No study evaluating its use to monitor hepatic or gastrointestinal perfusion in patients with shock has been published for the last 5 years. 
+
+## CONCLUSION 
+
+Despite of restoration of adequate systemic blood flow in patients with shock, single organs may remain hypoperfused. Physical examination techniques have a reasonable negative predictive value to exclude single organ hypoperfusion, but are nonspecific to detect it. Technical methods to indirectly measure myocardial perfusion include ECG and echocardiography. CEUS can quantify myocardial perfusion but has so far only been used to detect regional myocardial hypoperfusion. NIRS and TDS can be used to assess cerebral perfusion and determine autoregulation thresholds of the brain. Both Doppler and CEUS techniques are novel methods to evaluate renal and visceral organ perfusion. A key limitation of most techniques is the inability to determine adequacy of organ blood flow to meet the organs’ metabolic demands.
