@@ -51,7 +51,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
 
  themeConfig: {
-  logo: '/img/SSCC.png',
+  logo: '/images/SSCC.png',
 	repo: 'https://github.com/seasideccm/ssccm',
 	repoLabel: 'ssccm',
 	docsDir: 'docs',
