@@ -1,0 +1,1 @@
+const e={key:"v-c9f75fa8",path:"/guidelines/COVID-19/",title:"COVID-19 \u6307\u5357",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651224206e3,contributors:[{name:"sscc",email:"2094558239@qq.com",commits:1}]},filePathRelative:"guidelines/COVID-19/readme.md"};export{e as data};

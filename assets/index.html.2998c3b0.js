@@ -1,0 +1,1 @@
+const e={key:"v-635c3458",path:"/en/bloodflow/",title:"Theory and Tech of Blood Flow",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651224206e3,contributors:[{name:"sscc",email:"2094558239@qq.com",commits:1}]},filePathRelative:"en/bloodflow/readme.md"};export{e as data};

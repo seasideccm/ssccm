@@ -1,0 +1,1 @@
+const e={key:"v-16670e4c",path:"/guidelines/CNS/",title:"\u4E2D\u67A2\u795E\u7ECF\u7CFB\u7EDF\u4E2D\u6587\u6307\u5357",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651224206e3,contributors:[{name:"sscc",email:"2094558239@qq.com",commits:1}]},filePathRelative:"guidelines/CNS/readme.md"};export{e as data};

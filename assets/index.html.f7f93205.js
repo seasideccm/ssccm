@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a,d as c}from"./app.cc35b0f6.js";const d={},r={id:"theory-and-tech-of-blood-flow",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#theory-and-tech-of-blood-flow","aria-hidden":"true"},"#",-1),s=c(" Theory and Tech of Blood Flow"),_=[n,s];function h(i,l){return o(),t("h1",r,_)}var x=e(d,[["render",h],["__file","index.html.vue"]]);export{x as default};

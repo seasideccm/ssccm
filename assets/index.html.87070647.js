@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"SSCC \u7B80\u4ECB",lang:"zh-CN",frontmatter:{home:!0,heroImage:"https://cdn.jsdelivr.net/gh/seasideccm/img/upload/20210503162210.png"},excerpt:"",headers:[],git:{updatedTime:1651460173e3,contributors:[{name:"sscc",email:"2094558239@qq.com",commits:2}]},filePathRelative:"README.md"};export{e as data};

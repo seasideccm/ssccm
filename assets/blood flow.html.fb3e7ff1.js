@@ -1,0 +1,1 @@
+const o={key:"v-f8232364",path:"/en/bloodflow/blood%20flow.html",title:"Meaning of Blood Flow",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651224206e3,contributors:[{name:"sscc",email:"2094558239@qq.com",commits:1}]},filePathRelative:"en/bloodflow/blood flow.md"};export{o as data};

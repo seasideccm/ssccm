@@ -1,0 +1,1 @@
+const e={key:"v-331b52d2",path:"/en/test/CodeGroup.html",title:"Test Chinese-English comparison",lang:"en-US",frontmatter:{title:"Test Chinese-English comparison"},excerpt:"",headers:[],git:{updatedTime:1651224206e3,contributors:[{name:"sscc",email:"2094558239@qq.com",commits:1}]},filePathRelative:"en/test/CodeGroup.md"};export{e as data};

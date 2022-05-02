@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as n,d as a}from"./app.cc35b0f6.js";const c={},o={id:"cns-guidelines",tabindex:"-1"},d=n("a",{class:"header-anchor",href:"#cns-guidelines","aria-hidden":"true"},"#",-1),i=a(" CNS guidelines"),_=[d,i];function r(h,l){return s(),t("h1",o,_)}var u=e(c,[["render",r],["__file","index.html.vue"]]);export{u as default};

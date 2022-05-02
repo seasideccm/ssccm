@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,d as c}from"./app.cc35b0f6.js";const s={},_={id:"covid-19-\u6307\u5357",tabindex:"-1"},d=a("a",{class:"header-anchor",href:"#covid-19-\u6307\u5357","aria-hidden":"true"},"#",-1),r=c(" COVID-19 \u6307\u5357"),n=[d,r];function i(h,f){return t(),o("h1",_,n)}var x=e(s,[["render",i],["__file","index.html.vue"]]);export{x as default};
