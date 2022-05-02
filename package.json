@@ -9,10 +9,16 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
+    "deb": "vuepress dev --debug docs",
     "build": "vuepress build docs"
   },
   "dependencies": {
+    "@algolia/client-search": "^4.9.1",
+    "@vuepress/client": "^2.0.0-beta.42",
     "@vuepress/plugin-docsearch": "^2.0.0-beta.12",
-    "@vuepress/plugin-search": "^2.0.0-beta.12"
+    "@vuepress/plugin-search": "^2.0.0-beta.12",
+    "react": ">= 16.8.0 < 18.0.0",
+    "react-dom": ">= 16.8.0 < 18.0.0",
+    "vue": "^3.2.33"
   }
 }

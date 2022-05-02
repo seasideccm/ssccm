@@ -22,6 +22,8 @@ node_modules/
 # Log files
 *.log
 
+.npmrc
+
 # Typescript build info
 *.tsbuildinfo
 

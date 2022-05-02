@@ -1,8 +1,10 @@
 import { defineUserConfig } from 'vuepress'
-import type { DefaultThemeOptions } from 'vuepress'
+import { defaultTheme } from '@vuepress/theme-default'
 import { navbar, sidebar } from './configs'
-// import { sidebar } from './configs'
-export default defineUserConfig<DefaultThemeOptions>({
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+
+
+export default defineUserConfig({
   base: "/",
   locales: {
     '/': {
@@ -34,8 +36,7 @@ export default defineUserConfig<DefaultThemeOptions>({
    // ],
 
       
-      '@vuepress/docsearch',
-      {
+      docsearchPlugin({
         appId: 'ORWYCND0OB',
         apiKey: '1bc38658a874b69b61a2ba75867e88ce',
         indexName: 'netlify_3077aa08-89d1-47ba-ac04-f9347753d7ef_main_all',
@@ -47,10 +48,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             placeholder: 'Search Documentation',
           },
         },
-      },
+      }),
     ],
 
- themeConfig: {
+theme: defaultTheme({
   logo: '/images/SSCC.png',
 	repo: 'https://github.com/seasideccm/ssccm',
 	repoLabel: 'ssccm',
@@ -58,23 +59,23 @@ export default defineUserConfig<DefaultThemeOptions>({
 	docsBranch: 'docs',
 	// sidebar: 'auto',
 	lastUpdated: 'true',
-	
+  
 	locales: {
       '/': {
-		navbar: navbar.zh,
+		    navbar: navbar.zh,
         selectLanguageName: '简体中文',
-		selectLanguageText: '选择语言',
+		    selectLanguageText: '选择语言',
         selectLanguageAriaLabel: '选择语言',
-		sidebar: sidebar.zh,
-		
+		    sidebar: sidebar.zh
       },
+
       '/en/': {
-		navbar: navbar.en,
+		    navbar: navbar.en,
         selectLanguageName: 'English',
-		selectLanguageText: 'Languages',
+		    selectLanguageText: 'Languages',
         selectLanguageAriaLabel: 'Languages',
-		sidebar: sidebar.en,
+		    sidebar: sidebar.en,
       },
-    },
   },
+}),
 })
